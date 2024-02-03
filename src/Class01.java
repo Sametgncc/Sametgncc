@@ -10,5 +10,8 @@ public class Class01 {
         System.out.println(x*y);
         System.out.println("versiyon 2 tamamlandı.");
 
+        System.out.println(x/y);
+
+
     }
 }
