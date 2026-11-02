@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdussamed Genç 👋</h1>
+<h1 align="center">Hi, I'm Samet Genç 👋</h1>
 <h3 align="center">Java Backend Developer · Computer Engineer</h3>
 
 <p align="center">
