@@ -39,14 +39,4 @@ I'm a **Computer Engineering graduate** (Trakya University) based in Istanbul. I
 | **AI Tools** | Claude, Model Context Protocol (MCP) |
 | **Concepts** | RESTful API Design, Microservices, OOP, SOLID, JWT Authentication, Agile/Scrum |
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Çift Teker**](REPO-LINKI) | Social cycling platform with real-time location tracking | Spring Boot, PostgreSQL, WebSockets, JWT, Docker, GitHub Actions |
-| [**School Management System**](REPO-LINKI) | Backend for managing students, teachers and lesson programs | Spring Boot, Spring Security, PostgreSQL, JUnit |
-| [**PROJE-ADI**](REPO-LINKI) | React Native mobile app — KISA-ACIKLAMA | React Native, Expo |
-
----
-
 <p align="center">⭐ Open to <b>Java Backend</b> and <b>Mobile Developer</b> opportunities. Feel free to reach out!</p>
