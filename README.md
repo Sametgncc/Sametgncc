@@ -22,7 +22,11 @@ I'm a **Computer Engineering graduate** (Trakya University) based in Istanbul. I
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,py,postgres,mongodb,docker,git,github,githubactions,postman,idea,vscode,React Native,Expo&perline=14" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,py,postgres,mongodb,docker,git,github,githubactions,postman,idea,vscode&perline=14" alt="Tech stack">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
 </p>
 
 
